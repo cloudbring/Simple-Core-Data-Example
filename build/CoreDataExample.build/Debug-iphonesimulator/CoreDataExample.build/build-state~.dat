@@ -1,0 +1,274 @@
+TCoreDataExample
+v7
+r0
+t289689138.521120
+cCheck dependencies
+cProcessInfoPlistFile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/Info.plist CoreDataExample-Info.plist
+cCompileXIB /Users/wcope/Desktop/CoreDataExample/MainWindow.xib
+cProcessPCH /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch.gch CoreDataExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelCompile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample.mom /Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel
+cCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/main.o /Users/wcope/Desktop/CoreDataExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExampleAppDelegate.o /Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/example.o /Users/wcope/Desktop/CoreDataExample/example.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample normal i386
+cGenerateDSYMFile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app.dSYM /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample
+cTouch /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B722ECF0000000000000110
+t1265774287
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004B6BA6750000000000197AE0
+t1265346165
+s1669856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004B6BA66A000000000000046B
+t1265346154
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B6BA5E8000000000026F020
+t1265346024
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B6BA6030000000000288B20
+t1265346051
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B6BA5F60000000000001355
+t1265346038
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B6BC0FA000000000000098F
+t1265352954
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B6BC203000000000211A810
+t1265353219
+s34711568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004B63D0A90000000000001A1A
+t1264832681
+s6682
+
+N/Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.h
+c000000004B93CE5A0000000000000245
+t1267977818
+s581
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m
+c000000004B93CE5A000000000000133C
+t1267977818
+s4924
+i"CoreDataExampleAppDelegate.h"
+
+N/Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel
+c000000004B9416B10000000000000088
+t1267996337
+s136
+
+N/Users/wcope/Desktop/CoreDataExample/CoreDataExample_Prefix.pch
+c000000004B93CE5A0000000000000172
+t1267977818
+s370
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/wcope/Desktop/CoreDataExample/MainWindow.xib
+c000000004B93CE5A00000000000021F5
+t1267977818
+s8693
+
+N/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExample.LinkFileList
+c000000004B9416B100000000000001B1
+t1267996337
+s433
+
+N/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExampleAppDelegate.o
+t1267996338
+s26452
+
+N/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/example.o
+t1267996338
+s5116
+
+N/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/main.o
+t1267996338
+s5940
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app
+t1267996338
+s238
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app.dSYM
+t1267996338
+s102
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample
+t1267996338
+s19936
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample.mom
+t1267996338
+s1315
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/Info.plist
+t1267996337
+s629
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/MainWindow.nib
+t1267996337
+s986
+
+N/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/PkgInfo
+t1267996337
+s8
+
+N/Users/wcope/Desktop/CoreDataExample/example.h
+c000000004B941692000000000000013A
+t1267996306
+s314
+i<CoreData/CoreData.h>
+
+N/Users/wcope/Desktop/CoreDataExample/example.m
+c000000004B94169200000000000000DB
+t1267996306
+s219
+i"example.h"
+
+N/Users/wcope/Desktop/CoreDataExample/main.m
+c000000004B93CE5A0000000000000166
+t1267977818
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch.gch
+t1267996338
+s14609040
+
+NCoreDataExample-Info.plist
+c000000004B93CE5A000000000000038D
+t1267977818
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies289689137#289689137#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExampleAppDelegate.o /Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289689138.382291
+e289689138.439183
+r1
+xCompileC
+xbuild/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExampleAppDelegate.o
+x/Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m289689138#289689138#0(0"0(0#0#73"/Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m4300907768#2047"    cd /Users/wcope/Desktop/CoreDataExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-generated-files.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-own-target-headers.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-all-target-headers.hmap -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-project-headers.hmap -F/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -I/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/include -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources/i386 -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources -include /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch -c /Users/wcope/Desktop/CoreDataExample/Classes/CoreDataExampleAppDelegate.m -o /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExampleAppDelegate.o0#
+
+CCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/example.o /Users/wcope/Desktop/CoreDataExample/example.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289689138.439284
+e289689138.489452
+r1
+xCompileC
+xbuild/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/example.o
+x/Users/wcope/Desktop/CoreDataExample/example.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/wcope/Desktop/CoreDataExample/example.m289689138#289689138#0(0"0(0#0#46"/Users/wcope/Desktop/CoreDataExample/example.m4300907768#2001"    cd /Users/wcope/Desktop/CoreDataExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-generated-files.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-own-target-headers.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-all-target-headers.hmap -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-project-headers.hmap -F/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -I/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/include -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources/i386 -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources -include /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch -c /Users/wcope/Desktop/CoreDataExample/example.m -o /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/example.o0#
+
+CCompileC build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/main.o /Users/wcope/Desktop/CoreDataExample/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s289689138.337849
+e289689138.382193
+r1
+xCompileC
+xbuild/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/main.o
+x/Users/wcope/Desktop/CoreDataExample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/wcope/Desktop/CoreDataExample/main.m289689138#289689138#0(0"0(0#0#43"/Users/wcope/Desktop/CoreDataExample/main.m4300907768#1995"    cd /Users/wcope/Desktop/CoreDataExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-generated-files.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-own-target-headers.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-all-target-headers.hmap -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-project-headers.hmap -F/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -I/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/include -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources/i386 -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources -include /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch -c /Users/wcope/Desktop/CoreDataExample/main.m -o /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/wcope/Desktop/CoreDataExample/MainWindow.xib
+s289689137.277091
+e289689137.540203
+r1
+xCompileXIB
+x/Users/wcope/Desktop/CoreDataExample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib289689137#289689137#0(0"0(0#0#51"/Users/wcope/Desktop/CoreDataExample/MainWindow.xib4300907768#482"    cd /Users/wcope/Desktop/CoreDataExample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/MainWindow.nib /Users/wcope/Desktop/CoreDataExample/MainWindow.xib0#
+
+CDataModelCompile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample.mom /Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel
+s289689138.337138
+e289689138.472872
+r1
+xDataModelCompile
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample.mom
+x/Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel
+lSLF07#2@72"Compile /Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel289689138#289689138#0(0"0(0#0#64"/Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel4300907768#402"    cd /Users/wcope/Desktop/CoreDataExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/wcope/Desktop/CoreDataExample/CoreDataExample.xcdatamodel /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample.mom0#
+
+CGenerateDSYMFile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app.dSYM /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample
+s289689138.507153
+e289689138.518702
+r1
+xGenerateDSYMFile
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app.dSYM
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/CoreDataExample.app.dSYM build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample289689138#289689138#0(0"0(0#0#100"/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample4300907768#401"    cd /Users/wcope/Desktop/CoreDataExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample -o /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app.dSYM0#
+
+CLd /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample normal i386
+s289689138.489535
+e289689138.507060
+r1
+xLd
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample
+xnormal
+xi386
+lSLF07#2@105"Link /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample289689138#289689138#0(0"0(0#0#0"4300907768#912"    cd /Users/wcope/Desktop/CoreDataExample    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -F/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -filelist /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/Objects-normal/i386/CoreDataExample.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/CoreDataExample0#
+
+CProcessInfoPlistFile /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/Info.plist CoreDataExample-Info.plist
+s289689137.248949
+e289689137.277010
+r1
+xProcessInfoPlistFile
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/Info.plist
+xCoreDataExample-Info.plist
+lSLF07#2@34"Process CoreDataExample-Info.plist289689137#289689137#0(0"0(0#0#63"/Users/wcope/Desktop/CoreDataExample/CoreDataExample-Info.plist4300907768#497"    cd /Users/wcope/Desktop/CoreDataExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreDataExample-Info.plist -genpkginfo /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app/Info.plist0#
+
+CProcessPCH /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch.gch CoreDataExample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s289689137.540317
+e289689138.337054
+r1
+xProcessPCH
+x/var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch.gch
+xCoreDataExample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile CoreDataExample_Prefix.pch289689137#289689138#0(0"0(0#0#63"/Users/wcope/Desktop/CoreDataExample/CoreDataExample_Prefix.pch4300907768#1881"    cd /Users/wcope/Desktop/CoreDataExample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-generated-files.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-own-target-headers.hmap -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-all-target-headers.hmap -iquote /Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/CoreDataExample-project-headers.hmap -F/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator -I/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/include -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources/i386 -I/Users/wcope/Desktop/CoreDataExample/build/CoreDataExample.build/Debug-iphonesimulator/CoreDataExample.build/DerivedSources -c /Users/wcope/Desktop/CoreDataExample/CoreDataExample_Prefix.pch -o /var/folders/J3/J377SfDfFoiYBwVfQXUtT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreDataExample_Prefix-grnkukwaimrfpwchuhhbepushjcj/CoreDataExample_Prefix.pch.gch0#
+
+CTouch /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app
+s289689138.518785
+e289689138.521097
+r1
+xTouch
+x/Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app
+lSLF07#2@90"Touch /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app289689138#289689138#0(0"0(0#0#0"4300907768#282"    cd /Users/wcope/Desktop/CoreDataExample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wcope/Desktop/CoreDataExample/build/Debug-iphonesimulator/CoreDataExample.app0#
+
